@@ -1,0 +1,25 @@
+_repo: The-Living-Museum-Vol-XV-No-6-October-1953_63212
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Eifurt, Virginia S.
+    gutenberg_agent_id: '52329'
+    url: http://www.gutenberg.org/2009/agents/52329
+description: ''
+gutenberg_issued: '2020-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Living Museum, Vol. XV No. 6, October 1953
+url: http://www.gutenberg.org/ebooks/63212
